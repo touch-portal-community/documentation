@@ -1,3 +1,3 @@
 # Touch Portal Community Documentation
 ## Get Started
-- [Page](./get-started/page)
+- [Page](/touch-portal/documentation/get-started/page)
