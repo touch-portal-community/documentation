@@ -244,12 +244,12 @@ All Connectors will be called in parallel upon value change
 
 ##### Settings
 
-##### Bar Settings
+###### Bar Settings
 
 You can customize its orientation (Vertical or Horizontal), sides margins, endpoints margins,
 container and value area colors, rounded corners, inlay value area and the area used to slide
 
-##### Control Settings
+###### Control Settings
 
 You can customize its visualization:
 
